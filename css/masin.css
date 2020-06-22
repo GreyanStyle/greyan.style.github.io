@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: #18191A;
+}
+
+span{
+	color: #266EFF;
+}
+
+.menu{
+	border: 2px solid #3A3B3C;
+	width: 700px;
+	color: #B0B3B8;
+	margin-left: 270px;
+	
+}
+
+.info{
+	margin-left: 205px;
+}
